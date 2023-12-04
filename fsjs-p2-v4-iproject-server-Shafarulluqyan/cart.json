@@ -1,0 +1,14 @@
+[
+    {
+      "FoodId": 1,
+      "CustomerId": 1,
+      "createdAt": "2023-10-17T12:34:56Z",
+      "updatedAt": "2023-10-17T12:34:56Z"
+    },
+    {
+      "FoodId": 2,
+      "CustomerId": 1,
+      "createdAt": "2023-10-18T10:15:30Z",
+      "updatedAt": "2023-10-18T10:15:30Z"
+    }
+  ]

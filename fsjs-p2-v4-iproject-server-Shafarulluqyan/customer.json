@@ -1,0 +1,22 @@
+[
+  {
+    "email": "use1@gmail.com",
+    "password": "user1",
+    "isPayment": false
+  },
+  {
+    "email": "use2@gmail.com",
+    "password": "user2",
+    "isPayment": true
+  },
+  {
+    "email": "use3@gmail.com",
+    "password": "user3",
+    "isPayment": true
+  },
+  {
+    "email": "use4@gmail.com",
+    "password": "user4",
+    "isPayment": false
+  }
+]

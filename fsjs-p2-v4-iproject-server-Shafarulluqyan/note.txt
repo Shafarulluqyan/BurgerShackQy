@@ -1,0 +1,14 @@
+SECRET_API key xendit: xnd_development_EIlz3XOqg8qRCv4I0k53wx9qG2wWQLNRTLWZfsqtm9Z2jhf8T6CyDPsmg15w5
+
+Token verifikasi webhook: eym9z3avtkubuksF8NgvZscKYJaZCP0xpM198S8scGBYph4M
+
+supabase DB-pass : @8DR9AqS@8U7tEx
+
+token pass-db: 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
+
+
+supabase DATABASE_URL : postgresql://postgres:@8DR9AqS@8U7tEx@db.jmpjuatxcewlwiqjlnnx.supabase.co:5432/postgres
+
+export DATABASE_URL=postgresql://postgres:@8DR9AqS@8U7tEx@db.jmpjuatxcewlwiqjlnnx.supabase.co:5432/postgres
+
+password Droplet DigitalOcean : *$n,A37$i*Spj-V
