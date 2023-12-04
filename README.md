@@ -25,7 +25,7 @@ Before running the server and client locally, make sure you have [Node.js](https
 3. Start the server using [Nodemon](https://nodemon.io/):
 
    ```bash
-   nodemon app
+   npm start
    ```
 
 ### Running the Client Locally
